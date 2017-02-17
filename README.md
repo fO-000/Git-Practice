@@ -5,4 +5,4 @@ I use this repository to improve my git skill.
 I use vim to edit this README.md file.
 
 # dev branch
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
